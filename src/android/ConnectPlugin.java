@@ -256,7 +256,7 @@ public class ConnectPlugin extends CordovaPlugin {
         super.onPause(multitasking);
       //  AppEventsLogger.deactivateApp(cordova.getActivity().getApplication());
 		
-AppEventsLogger.onBackgroundActivityStarted(activity);
+//AppEventsLogger.onBackgroundActivityStarted(activity);
 
 		
     }
